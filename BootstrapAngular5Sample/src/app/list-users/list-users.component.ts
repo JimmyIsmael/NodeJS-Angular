@@ -7,11 +7,11 @@ import { UsersService } from '../users.service';
   styleUrls: ['./list-users.component.css']
 })
 export class ListUsersComponent implements OnInit {
-
+  public usersList: any = [];
   constructor(public userService: UsersService) { }
 
   ngOnInit() {
-    console.log(this.userService.listUsers());
+    this.usersList = this.userService.listUsers();
   }
 
 }
