@@ -1,8 +1,23 @@
-# Angular5AdalExample
+# ADAL Sample for Angular 5 
 
-Working example using adal-angular5. Remember to add your credentials and properly configure Azure AD reply url!
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 5.0.0.
+
+## Installing Modules
+
+Run `npm install` to download all the modules needed on this proyect. 
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+## Code scaffolding
+
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
