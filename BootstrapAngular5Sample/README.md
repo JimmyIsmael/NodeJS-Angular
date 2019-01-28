@@ -1,6 +1,6 @@
 # BasicAngular5Sample
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 5.2.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 5.2.9.
 
 ## Adding Bootstrap
 To add Bootstrap to your plain Angular project you can use this tutorial https://medium.com/codingthesmartway-com-blog/building-an-angular-5-project-with-bootstrap-4-and-firebase-4504ff7717c1 just as I did here in this example.
