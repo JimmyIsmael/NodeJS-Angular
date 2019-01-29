@@ -2,8 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 5.2.9.
 
-## Installing Packages
-To install the necessary packages run `npm install` on the terminal. All the packages listed under package.json will be installed. 
+## To Run This Project
+Install the necessary packages by running `npm install` on the terminal. All the packages listed under package.json will be installed. 
 
 ## Adding Bootstrap
 To add Bootstrap to your plain Angular project you can use this tutorial https://medium.com/codingthesmartway-com-blog/building-an-angular-5-project-with-bootstrap-4-and-firebase-4504ff7717c1 just as I did here in this example.
